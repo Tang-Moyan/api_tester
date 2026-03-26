@@ -1,0 +1,5 @@
+{
+  "q": "example search query",
+  "limit": 10,
+  "lang": "zh-CN"
+}

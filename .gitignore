@@ -1,0 +1,28 @@
+# API keys, base URLs, secrets (use config/.env.example as template)
+config/.env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Test / tooling
+.pytest_cache/
+.mypy_cache/
+*.log
+
+# Generated run artifacts (keep output/.gitkeep)
+output/*.json
+output/*.log
